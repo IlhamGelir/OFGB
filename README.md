@@ -30,4 +30,4 @@ Eğer herhangi bir hata bulursanız veya herhangi bir öneriniz varsa, [bir soru
 
 - Bütün bu karmaşadan kaçınmak istiyor musunuz? Linux'u deneyin!
 
-- İlhami Erk Çelik'in katkılarıyla düzenlenmiş ve Türkçeleştirilmiştir. ❤️
+- İlhami Erk Çelik ve Serhat Çiftçi'nin katkılarıyla düzenlenmiş ve Türkçeleştirilmiştir. ❤️
