@@ -3,28 +3,30 @@
 </p>
 
 # OFGB (Oh Frick Go Back)
-On April 23, 2024, Microsoft released an [update](https://support.microsoft.com/en-us/topic/april-23-2024-kb5036980-os-builds-22621-3527-and-22631-3527-preview-5a0d6c49-e42e-4eb4-8541-33a7139281ed) for Windows 11 that added ads all across the OS, including the File Explorer, Start Menu, and more. This tool changes certain keys in the [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry) to disable those ads. It's written in C# and uses [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation).
+23 Nisan 2024'te Microsoft, Windows 11 için bir [güncelleme](https://support.microsoft.com/en-us/topic/april-23-2024-kb5036980-os-builds-22621-3527-and-22631-3527-preview-5a0d6c49-e42e-4eb4-8541-33a7139281ed) yayınladı ve bu güncellemeyle dosya gezgini, Başlat Menüsü ve daha fazlası dahil olmak üzere işletim sistemi genelinde reklamlar ekledi. Bu araç, bu reklamları devre dışı bırakmak için [Windows Kayıt Defteri](https://en.wikipedia.org/wiki/Windows_Registry)'nde belirli anahtarları değiştirir. C# ile yazılmıştır ve [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation) kullanır.
 
-## First things first, credits:
-- [Registry keys, comments about their function](https://github.com/xM4ddy/OFGB/blob/92756276178137bb78d7c563733dde0d24f13aff/MainWindow.xaml.cs#L33) and the inspiration for this project were all from [Shawn Brink](https://www.elevenforum.com/members/brink.2/) and [his awesome script](https://www.elevenforum.com/t/disable-ads-in-windows-11.8004/).
-- [A good bit of the theme used for the app](https://github.com/xM4ddy/OFGB/blob/main/dark.xaml) is from a cool project called [DarkNet](https://github.com/Aldaviva/DarkNet) by [Aldaviva](https://github.com/Aldaviva).
+## İlk olarak, credits:
+- [Kayıt defteri anahtarları, işlevleri hakkındaki yorumlar](https://github.com/xM4ddy/OFGB/blob/92756276178137bb78d7c563733dde0d24f13aff/MainWindow.xaml.cs#L33) ve bu projenin ilham kaynağı, [Shawn Brink](https://www.elevenforum.com/members/brink.2/) ve [muhteşem betiği](https://www.elevenforum.com/t/disable-ads-in-windows-11.8004/) tarafından sağlandı.
+- Uygulama için kullanılan tema [DarkNet](https://github.com/Aldaviva/DarkNet) adlı harika bir projeden [Aldaviva](https://github.com/Aldaviva) tarafından sağlanmıştır.
 
-## Downloads
-To download the latest version of OFGB, [click here](https://github.com/xM4ddy/OFGB/releases/latest) or click the "Releases" tab at the right of the page.
+## İndirmeler
+OFGB'nin en son sürümünü indirmek için, [buraya tıklayın](https://github.com/xM4ddy/OFGB/releases/latest) veya sayfanın sağ tarafındaki "Sürümler" sekmesine tıklayın.
 
-## Building
-To build OFGB, you will need [Visual Studio](https://visualstudio.microsoft.com/) and the [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
+## Derleme
+OFGB'yi derlemek için [Visual Studio](https://visualstudio.microsoft.com/) ve [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) gereklidir.
 
-1. Clone/download the repository, either with `git clone https://github.com/xM4ddy/OFGB` or by downloading the ZIP file.
-2. Open the solution file in Visual Studio.
-3. Build the solution by pressing `Ctrl + Shift + B` or by going to `Build > Build Solution`.
+1. Depoyu `git clone https://github.com/xM4ddy/OFGB` ile ya da ZIP dosyasını indirerek klonlayın/indirin.
+2. Visual Studio'da çözüm dosyasını açın.
+3. Çözümü derlemek için `Ctrl + Shift + B` tuşlarına basın veya `Build > Build Solution` yolunu izleyin.
 
-## Contributions
-If you find any bugs or have any suggestions, feel free to [open an issue](https://github.com/xM4ddy/OFGB/issues) or [start a discussion](https://github.com/xM4ddy/OFGB/discussions).
+## Katkılar
+Eğer herhangi bir hata bulursanız veya herhangi bir öneriniz varsa, [bir sorun açmaktan](https://github.com/xM4ddy/OFGB/issues) veya [bir tartışma başlatmaktan](https://github.com/xM4ddy/OFGB/discussions) çekinmeyin.
 
-## Other Notes
-- Thanks for checking out the project, and for all of the support! ❤️
+- İlhami Erk Çelik'in katkılarıyla düzenlenmiş ve Türkçeleştirilmiştir. ❤️
 
-- GitHub is the only place I am sharing this program! I am not affiliated with any other websites that may share this app, thus I cannot guarantee the safety of any downloads from outside of GitHub.
+## Diğer Notlar
+- Proje için ilginiz için teşekkürler ve tüm desteğiniz için! ❤️
 
-- Want to avoid all this mess? Try Linux!
+- Bu programı sadece GitHub'da paylaşıyorum! Bu uygulamayı paylaşan diğer web siteleriyle ilişkilendirilmiyorum, bu yüzden GitHub dışından yapılan indirmelerin güvenliğini garanti edemem.
+
+- Bütün bu karmaşadan kaçınmak istiyor musunuz? Linux'u deneyin!

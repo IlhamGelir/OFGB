@@ -3,7 +3,7 @@
 namespace OFGB
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// Etkileşim mantığı için App.xaml
     /// </summary>
     public partial class App : Application
     {
