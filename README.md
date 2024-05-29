@@ -22,7 +22,6 @@ OFGB'yi derlemek için [Visual Studio](https://visualstudio.microsoft.com/) ve [
 ## Katkılar
 Eğer herhangi bir hata bulursanız veya herhangi bir öneriniz varsa, [bir sorun açmaktan](https://github.com/xM4ddy/OFGB/issues) veya [bir tartışma başlatmaktan](https://github.com/xM4ddy/OFGB/discussions) çekinmeyin.
 
-- İlhami Erk Çelik'in katkılarıyla düzenlenmiş ve Türkçeleştirilmiştir. ❤️
 
 ## Diğer Notlar
 - Proje için ilginiz için teşekkürler ve tüm desteğiniz için! ❤️
@@ -30,3 +29,5 @@ Eğer herhangi bir hata bulursanız veya herhangi bir öneriniz varsa, [bir soru
 - Bu programı sadece GitHub'da paylaşıyorum! Bu uygulamayı paylaşan diğer web siteleriyle ilişkilendirilmiyorum, bu yüzden GitHub dışından yapılan indirmelerin güvenliğini garanti edemem.
 
 - Bütün bu karmaşadan kaçınmak istiyor musunuz? Linux'u deneyin!
+
+- İlhami Erk Çelik'in katkılarıyla düzenlenmiş ve Türkçeleştirilmiştir. ❤️
